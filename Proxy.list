@@ -1,0 +1,30 @@
+# > Microsoft
+DOMAIN-SUFFIX,ajax.aspnetcdn.com,PROXY
+DOMAIN-SUFFIX,gfx.ms,PROXY
+DOMAIN-SUFFIX,gate.hockeyapp.net,PROXY
+DOMAIN-SUFFIX,officeapps.live.com,PROXY
+DOMAIN-SUFFIX,skyapi.live.net,PROXY
+DOMAIN-SUFFIX,skyapi.policies.live.net,PROXY
+DOMAIN-SUFFIX,docs.live.net,PROXY
+DOMAIN-SUFFIX,logincdn.msauth.net,PROXY
+DOMAIN-SUFFIX,microsoftonline.com,PROXY
+DOMAIN-SUFFIX,arc.msn.com,PROXY
+DOMAIN-SUFFIX,templateservice.office.com,PROXY
+DOMAIN-SUFFIX,portal.office.com,PROXY
+DOMAIN,www.office.com,PROXY
+DOMAIN-SUFFIX,omextemplates.content.office.net,PROXY
+DOMAIN-SUFFIX,support.content.office.net,PROXY
+DOMAIN-SUFFIX,contentstorage.osi.office.net,PROXY
+DOMAIN-SUFFIX,skype.com,PROXY
+DOMAIN-SUFFIX,windows.net,PROXY
+# > Others
+DOMAIN-KEYWORD,cloudflare,PROXY
+DOMAIN-SUFFIX,cookiebot.com,PROXY
+DOMAIN-SUFFIX,crossutility.com,PROXY
+DOMAIN,statuse.digitalcertvalidation.com,PROXY
+DOMAIN-SUFFIX,jivochat.com,PROXY
+DOMAIN-SUFFIX,jivosite.com,PROXY
+DOMAIN,dove.589669.xyz,PROXY
+DOMAIN-SUFFIX,time.is,PROXY
+DOMAIN, p14-buy.itunes.apple.com, PROXY
+DOMAIN-SUFFIX, 1password.com, PROXY

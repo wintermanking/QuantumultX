@@ -1,0 +1,21 @@
+# > Google Drive
+DOMAIN-SUFFIX,clients6.google.com,Upload
+DOMAIN-SUFFIX,photos.googleapis.com,Upload
+# > Onedrive
+DOMAIN-SUFFIX,sharepoint.com,Upload
+DOMAIN-SUFFIX,1drv.com,Upload
+DOMAIN-SUFFIX,1drv.ms,Upload
+DOMAIN-SUFFIX,livefilestore.com,Upload
+DOMAIN-SUFFIX,delve.office.com,Upload
+DOMAIN-SUFFIX,cdn.office.net,Upload
+DOMAIN-SUFFIX,onedrive.com,Upload
+DOMAIN-SUFFIX,onedrive.live.com,Upload
+DOMAIN-SUFFIX,storage.live.com,Upload
+DOMAIN-SUFFIX,storage.msn.com,Upload
+DOMAIN-SUFFIX,modpim.com,Upload
+DOMAIN-SUFFIX,msocdn.com,Upload
+DOMAIN-SUFFIX,xboxlive.com,Upload
+DOMAIN-SUFFIX,sharepointonline.com,Upload
+DOMAIN-SUFFIX,sfx.ms,Upload
+DOMAIN-SUFFIX,svc.ms,Upload
+DOMAIN-SUFFIX,blob.core.windows.net,Upload

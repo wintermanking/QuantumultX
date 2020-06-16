@@ -1,0 +1,43 @@
+# > APPLE
+DOMAIN-SUFFIX,ocsp.digicert.com,DIRECT
+DOMAIN-SUFFIX,ocsp.usertrust.com,DIRECT
+DOMAIN-SUFFIX,ocsp.identrust.com,DIRECT
+DOMAIN-SUFFIX,ocsp.int-x3.letsencrypt.org,DIRECT
+DOMAIN-SUFFIX,mozilla.com,DIRECT
+# > Microsoft
+DOMAIN-SUFFIX,azureedge.net,DIRECT
+DOMAIN-SUFFIX,acompli.helpshift.com,DIRECT
+DOMAIN-SUFFIX,login.live.com,DIRECT
+DOMAIN-SUFFIX,microsoft.com,DIRECT
+DOMAIN-SUFFIX,msecnd.net,DIRECT
+DOMAIN-SUFFIX,msedge.net,DIRECT
+DOMAIN-SUFFIX,outlook.office.com,DIRECT
+DOMAIN-SUFFIX,substrate.office.com,DIRECT
+DOMAIN-SUFFIX,support.office.com,DIRECT
+DOMAIN-SUFFIX,office365.com,DIRECT
+DOMAIN-SUFFIX,outlook.com,DIRECT
+DOMAIN-SUFFIX,outlookmobile.com,DIRECT
+DOMAIN-SUFFIX,s-microsoft.com,DIRECT
+DOMAIN-SUFFIX,visualstudio.com,DIRECT
+DOMAIN-SUFFIX,windows.com,DIRECT
+DOMAIN-SUFFIX,windowsupdate.com,DIRECT
+DOMAIN,officecdn-microsoft-com.akamaized.net,DIRECT
+# > OneDrive
+USER-AGENT,OneDrive*,DIRECT
+USER-AGENT,OneDriveiOSApp*,DIRECT
+# > Others
+DOMAIN-SUFFIX,crisp.chat,DIRECT
+DOMAIN-SUFFIX,ntp.nasa.gov,DIRECT
+DOMAIN-SUFFIX,pool.ntp.org,DIRECT
+DOMAIN-SUFFIX,v2ex.com,DIRECT
+IP-CIDR,239.255.255.250/32,DIRECT
+# > Works
+DOMAIN-SUFFIX,hbky.com,DIRECT
+DOMAIN-SUFFIX,hbmg.com,DIRECT
+DOMAIN-SUFFIX,hbcoal.com,DIRECT
+DOMAIN-SUFFIX,59iedu.com,DIRECT
+DOMAIN-SUFFIX,huaweicloud.com,DIRECT
+DOMAIN-SUFFIX,hbmd.ahsjxjy.com,DIRECT
+DOMAIN-SUFFIX,ahchas.com,DIRECT
+DOMAIN-SUFFIX,ahky.bjadks.com,DIRECT
+DOMAIN-SUFFIX,purvar.net,DIRECT
