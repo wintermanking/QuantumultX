@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,skype.com,PROXY
 DOMAIN-SUFFIX,windows.net,PROXY
 # > Others
 DOMAIN-KEYWORD,cloudflare,PROXY
+DOMAIN-KEYWORD,github,PROXY
 DOMAIN-SUFFIX,cookiebot.com,PROXY
 DOMAIN-SUFFIX,crossutility.com,PROXY
 DOMAIN,statuse.digitalcertvalidation.com,PROXY
