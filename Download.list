@@ -5,4 +5,4 @@ DOMAIN-SUFFIX,youtu.be,PROXY
 DOMAIN-SUFFIX,yt.be,PROXY
 DOMAIN-SUFFIX,ytimg.com,PROXY
 # > AWS
-DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,amazonaws.com,PROXY
